@@ -1,0 +1,14 @@
+#name{
+    color: blue;
+}
+.abc{
+    color: red;
+}
+
+form 
+        {
+            border:5px dotted rgb(197, 42, 42) !important;
+            border-collapse: collapse;
+            padding: 15px !important;
+
+        }
